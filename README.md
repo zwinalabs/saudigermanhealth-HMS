@@ -1,6 +1,6 @@
 <p><img src="http://www.gobiz.tn/images/AU9cPBFj_400x400.jpg"></p>
 
-## Hospital Management System
+## Gobiz Hospital Management System
 
 ## Installation Step
 
